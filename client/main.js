@@ -8,9 +8,7 @@ Template.mainTemplate.onCreated(function helloOnCreated() {
 });
 
 Template.mainTemplate.helpers({
-  testing(){
-    console.log("testing log");
-  }
+  
 });
 
 Template.mainTemplate.events({
